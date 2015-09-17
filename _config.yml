@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Somethings Forgotten
+title : Somethings Forgotten
+tagline: Site Tagline
 author :
   name : Mansi Nandwani
   email : mansinandwani@gmail.com
