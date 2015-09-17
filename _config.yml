@@ -9,13 +9,12 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Jekyll Bootstrap
-tagline: Site Tagline
+tagline: Somethings Forgotten
 author :
   name : Mansi Nandwani
   email : mansinandwani@gmail.com
   github : mansinandwani
   twitter : username
-  facebook : mansinandwani
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
